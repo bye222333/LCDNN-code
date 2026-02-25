@@ -1,7 +1,6 @@
-# LCDNN (Code Release Template)
+# LCDNN 
 
-This repository contains the code you provided (script + notebook) packaged in a GitHub-ready structure.
-
+This repository contains the code of LCDNN
 ## Contents
 
 - `scripts/lcdnn_paper_debug_fix.py`: main runnable script (exported from Colab notebook)
@@ -23,9 +22,6 @@ python scripts/lcdnn_paper_debug_fix.py
 
 - Some baselines in the script require **optional** packages (e.g., `torch`, `causal-learn`, `networkx`, `causalassembly`).  
   They are listed as optional in `requirements.txt`.
-
-- If you are submitting to a double-blind venue, avoid including any identifying information
-  (names, affiliations, emails, personal Drive links, etc.) in this repository.
 
 ## Reproducibility tips
 
