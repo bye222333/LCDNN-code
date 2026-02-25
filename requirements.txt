@@ -1,0 +1,15 @@
+# Core dependencies
+numpy
+scipy
+pandas
+scikit-learn
+tqdm
+lingam
+
+# Optional (only needed for some baselines / extra experiments)
+# causal-learn
+# torch
+# networkx
+# causalassembly
+# requests
+# ipython
